@@ -249,7 +249,7 @@ var config = {
             hidden: false,
             title: 'Nigeria’s Farmer-Herder Violence Trend',
             image: '',
-            description: 'Farmer-herder violence has become a major security problem, killing and displacing thousands of Nigerians. Climate change has aggravated the conflict. In the first half of 2018, farmer-herder violence killed up to six times more people than the Boko Haram insurgency in the country’s North East.<h4>Total fatalities - land-related violence since 2017</h4><img style="width: auto !important;" src="images/fatalities_vertical_2.png" />',
+            description: 'Farmer-herder violence has become a major security problem, killing and displacing thousands of Nigerians. Climate change has aggravated the conflict. In the first half of 2018, farmer-herder violence killed up to six times more people than the Boko Haram insurgency in the country’s North East.<h4>Total fatalities in land-related violent incidents since 2017</h4><img style="width: auto !important;" src="images/fatalities_vertical_2.png" />',
             location: {
               center: [6.37998, 9.09991],
               zoom: 5.50,
