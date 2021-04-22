@@ -91,7 +91,7 @@ var config = {
             hidden: false,
             title: 'Climate Change and Rising Temperatures',
             image: '',
-            description: 'From 1950 to 2010, average annual temperatures across the Sahel and in some neighbouring countries increased by 1°C and average annual rainfall decreased by 4.1 cm, outpacing global climate trends on both counts. Here is the 11-year temperature average in 1955.<h4>Temperature average 1945-1955</h4><div id="wri-values" class="row labels"><div class="label">16.4°C</div><div class="label"> </div>  <div class="label">30.5°C</div></div><div class="temperature-legend-colors"></div>',
+            description: 'From 1950 to 2010, average annual temperatures across the Sahel and in some neighbouring countries increased by 1°C and average annual rainfall decreased by 4.1cm, outpacing global climate trends on both counts. Here is the eleven-year temperature average in 1955.<h4>Temperature average 1945-1955</h4><div id="wri-values" class="row labels"><div class="label">16.4°C</div><div class="label"> </div>  <div class="label">30.5°C</div></div><div class="temperature-legend-colors"></div>',
             location: {
               center: [-3.15195, 4.63389],
               zoom: 3.5,
@@ -123,7 +123,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'Now here is the 11-year temperature average in 2010.<h4>Temperature average 2005-2015</h4><div id="wri-values" class="row labels"><div class="label">16.4°C</div><div class="label"> </div>  <div class="label">30.5°C</div></div><div class="temperature-legend-colors"></div>',
+            description: 'Now here is the eleven-year temperature average in 2010.<h4>Temperature average 2005-2015</h4><div id="wri-values" class="row labels"><div class="label">16.4°C</div><div class="label"> </div>  <div class="label">30.5°C</div></div><div class="temperature-legend-colors"></div>',
             location: {
               center: [-3.15195, 4.63389],
               zoom: 3.5,
@@ -186,7 +186,7 @@ var config = {
             hidden: false,
             title: 'Nigeria’s Agricultural Dependence',
             image: '',
-            description: 'Like many countries in Africa, Nigeria is highly dependent on agriculture. Approximately two-thirds of the labour force makes a living through farming or pastoralism (herding). With very little irrigated land, both activities rely heavily on seasonal rainfall and related weather patterns, so the effects of climate change can be intense.<h4>Land use data, 2018</h4><img style="width: auto !important;" src="images/landuse_legend.png" /> ',
+            description: 'Like many countries in Africa, Nigeria is highly dependent on agriculture. Approximately two thirds of the labour force makes a living through farming or pastoralism (herding). With very little irrigated land, both activities rely heavily on seasonal rainfall and related weather patterns, so the effects of climate change can be intense.<h4>Land use data, 2018</h4><img style="width: auto !important;" src="images/landuse_legend.png" /> ',
             location: {
               center: [6.75824, 8.03246],
               zoom: 6,
@@ -390,7 +390,7 @@ var config = {
             hidden: false,
             title: 'Nasarawa’s Violent Spark',
             image: '',
-            description: 'The influx of Fulani pastoralists into Nasarawa from Benue aggravated long-standing tensions with ethnic Tiv farming communities. Intercommunal violence soon intensified.',
+            description: 'The influx of Fulani pastoralists into Nasarawa from Benue aggravated longstanding tensions with ethnic Tiv farming communities. Intercommunal violence soon intensified.',
             location: {
                 center: [9.141180, 8.120931],
                 zoom: 14.5,
@@ -462,7 +462,7 @@ var config = {
             hidden: false,
             title: 'Nasarawa’s Deadly Escalation',
             image: '',
-            description: 'From January to June 2018, over 260 people were killed in several incidents, mostly in Nasarawa’s southern zone covering Doma, Awe, Obi and Keana local government areas. In May 2018, federal authorities deployed a military force, Operational Whirl Stroke, to Nasarawa and three additional states. The violence has ebbed for now in Nasarawa.<h4>Total fatalities - violence in Nasarawa (January-June 2018)</h4><img style="width: auto !important;" src="images/fatalities_vertical_3.png" />',
+            description: 'From January to June 2018, over 260 people were killed in several incidents, mostly in Nasarawa’s southern zone covering Doma, Awe, Obi and Keana local government areas. In May 2018, federal authorities deployed a military force, Operation Whirl Stroke, to Nasarawa and three additional states. The violence has ebbed for now in Nasarawa.<h4>Total fatalities - violence in Nasarawa (January-June 2018)</h4><img style="width: auto !important;" src="images/fatalities_vertical_3.png" />',
             location: {
                 center: [8.348450, 8.645048],
                 zoom: 8,
@@ -700,7 +700,7 @@ var config = {
             hidden: false,
             title: 'Reducing Risks of Violence',
             image: '',
-            description: 'The federal government’s plan is a positive step but will not by itself end risks of farmer-herder violence exacerbated by climate change &dash; even if fully implemented. Planned ranch and grazing reserve locations may themselves be vulnerable to climate-related threats &dash; such as growing water scarcity over coming decades. The federal government should ensure that all states participating livestock transformation plan adopt measures to address climate change’s impact and consider future climate projections in designating locations for ranches and grazing reserves.<h4>2030 forecast - seasonal variability, water supply</h4><div id="wri-values" class="row labels"><div class="label">< Low</div><div class="label"> </div>  <div class="label">High ></div></div><div class="wri-legend-colors"></div>',
+            description: 'The federal government’s plan is a positive step but will not by itself end risks of farmer-herder violence exacerbated by climate change &dash; even if fully implemented. Planned ranch and grazing reserve locations may themselves be vulnerable to climate-related threats, such as growing water scarcity, over coming decades. The federal government should ensure that all states participating in the livestock transformation plan adopt measures to address climate change’s impact and consider future climate projections in designating locations for ranches and grazing reserves.<h4>2030 forecast - seasonal variability, water supply</h4><div id="wri-values" class="row labels"><div class="label">< Low</div><div class="label"> </div>  <div class="label">High ></div></div><div class="wri-legend-colors"></div>',
             location: {
               center: [13.398643, 8.313016],
               zoom: 5.50,
