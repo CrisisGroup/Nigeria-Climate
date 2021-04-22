@@ -53,7 +53,7 @@ var config = {
             hidden: false,
             title: 'Africa’s Farmer-Herder Violence: An Arc of Instability',
             image: '',
-            description: 'Rising temperatures and erratic rainfall have intensified resource competition between farmers and herders, both shifting traditional migratory patterns and exacerbating intercommunal violence. In Nigeria, many herders are from the Fulani people, while most farmers are of other ethnicities.<br /><h4>Total fatalities - land-related violence since 2017</h4><img style="width: auto !important;" src="images/fatalities_vertical_1.png" />',
+            description: 'Rising temperatures and erratic rainfall have intensified resource competition between farmers and herders, both shifting traditional migratory patterns and exacerbating intercommunal violence. In Nigeria, many herders are from the Fulani people, while most farmers are of other ethnicities.<br /><h4>Total fatalities - land-related violent incidents since 2017</h4><img style="width: auto !important;" src="images/fatalities_vertical_1.png" />',
             location: {
               center: [-3.15195, 4.63389],
               zoom: 3.5,
