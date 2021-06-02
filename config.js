@@ -91,7 +91,7 @@ var config = {
             hidden: false,
             title: 'Climate Change and Rising Temperatures',
             image: '',
-            description: 'From 1950 to 2010, average annual temperatures across the Sahel and in some neighbouring countries increased by 1°C and average annual rainfall decreased by 4.1cm, outpacing global climate trends on both counts. Here is the eleven-year temperature average in 1955. (Data: CRU)<h4>Temperature average 1945-1955</h4><div id="wri-values" class="row labels"><div class="label">16.4°C</div><div class="label"> </div>  <div class="label">30.5°C</div></div><div class="temperature-legend-colors"></div>',
+            description: 'From 1950 to 2010, average annual temperatures across the Sahel and in some neighbouring countries increased by 1°C and average annual rainfall decreased by 4.1cm, outpacing global climate trends on both counts. Here is the eleven-year temperature average in 1950. (Data: CRU)<h4>Temperature average 1945-1955</h4><div id="wri-values" class="row labels"><div class="label">16.4°C</div><div class="label"> </div>  <div class="label">30.5°C</div></div><div class="temperature-legend-colors"></div>',
             location: {
               center: [-3.15195, 4.63389],
               zoom: 3.5,
